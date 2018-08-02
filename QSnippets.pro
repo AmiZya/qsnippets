@@ -4,7 +4,7 @@
 #
 # This project is licenced under the GPLv3 Licence.
 #
-# Any questions or suggestions are welcome at <amizya@live.com>
+# Any questions or suggestions are welcome at <amizya@gmail.com>
 #
 #-------------------------------------------------
 
