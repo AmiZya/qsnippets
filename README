@@ -1,14 +1,17 @@
-# Intro
+Intro
+=====
 
 QSnippets is a code chuncks manager.
 Create/edit and delete your snippets to use them in future projects. 
 
-# Installation
+Installation
+============
 
 The program is a coded in C++ and needs to be compiled first. 
 
 To do so, just run 'make' in the current directory. 
 
-# Licence
+Licence
+=======
 
 Free as in freedom. MIT Licence. 
